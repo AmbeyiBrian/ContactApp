@@ -1,0 +1,49 @@
+.title{
+    font-size:4vw;
+}
+
+.myBtn{
+    border:none;
+    height:2vw;
+    border-radius:5vw;
+}
+.newClientForm{
+    padding:1vw;
+    border-radius:12px;
+    width:40vw;
+    position:absolute;
+    top:10vw;
+    left:40vw;
+    background-color:rgb(230,230,230);
+}
+
+.clientContactForm{
+    padding:1vw;
+    border-radius:12px;
+    width:40vw;
+    position:absolute;
+    top:10vw;
+    left:40vw;
+    background-color:rgb(230,230,230);
+}
+
+.linkedContacts{
+    padding:1vw;
+    border-radius:12px;
+    width:40vw;
+    position:absolute;
+    top:10vw;
+    left:40vw;
+    background-color:rgb(230,230,230);
+    font-size:1vw;
+}
+
+.scrollableView{
+    overflow-y: scroll;
+    height:50vh;
+}
+
+.btnUnLink{
+    height:2vw;
+    font-size:1vw;
+}
