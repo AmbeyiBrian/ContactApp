@@ -1,0 +1,1 @@
+This an assignment to be used in assessment by BinaryCity. It is a web application to capture Clients, Contacts, and link or unlink them as need arises. It was developed using-Backend Django, DjangoRest for RestFul APIs, and PostgreSQL as databse. Frontend: ReactJS, jQuery, and Bootstrap.
